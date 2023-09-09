@@ -9,13 +9,13 @@ Well,
 
 ## Stuff
 
-👩‍💻 I'm currently working on: BromineOS
+👩‍💻 I'm currently working on: NebulaKit
 
-🧠 I'm currently learning: Rust
+🧠 I'm currently learning: Rust & SCSS
 
 👯‍♀️ I'm looking to collaborate on: PPTOSes
 
-🤔 I'm looking for help with: PPTOSes
+🤔 I'm looking for help with: Java
 
 💬 Ask me about: Life
 
@@ -38,3 +38,5 @@ Well,
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+![SCSS](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=scss&logoColor=white)
