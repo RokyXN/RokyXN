@@ -39,4 +39,4 @@ Well,
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-![SCSS](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=scss&logoColor=white)
+![SCSS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SCSS&logoColor=white)
